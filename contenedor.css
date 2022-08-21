@@ -1,0 +1,36 @@
+.contenedor{
+    
+    height: 20vh;
+    display: flex;
+    justify-content: space-around;
+}
+.contenedor2{
+    background-color: blue;
+    height: 8vh;
+    display: flex;
+    
+}
+.contenedor3{
+    background-color: blue;
+    height: 30vh;
+    display: flex;
+    justify-content: space-around;
+}
+.contenedor4{
+background-color: blue;
+    height: 8vh;
+    display: flex;
+    
+}
+.contenedor5{
+    background-color: blue;
+    height: 8vh;
+    display: flex;
+    justify-content: space-around;
+}
+.contenedor6{
+    background-color: blue;
+    height: 8vh;
+    display: flex;
+    justify-content: space-around;
+}
